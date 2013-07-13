@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="package" author="true" classpath="/Users/afzal/Dev/Android/android-sdk-macosx/tools/support/annotations.jar" destdir="doc" doctitle="Volley" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="com.android.volley,com.android.volley.toolbox" source="1.6" sourcepath="gen:src" splitindex="true" use="true" version="true">
+            <link href="file:/Users/afzal/Dev/android/Libraries/volley/doc/"/>
+            <link href="file:/Users/afzal/Dev/Android/android-sdk-macosx/docs/reference"/>
+        </javadoc>
+    </target>
+</project>
